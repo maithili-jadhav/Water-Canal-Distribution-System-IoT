@@ -24,16 +24,18 @@ Traditional canal water distribution systems rely on manual operations, which ca
 
 ## Technologies Used
 
-### Hardware
-- Arduino Uno (ATmega328P)
-- Water Flow Sensor
-- Solenoid Valve
+## System Components
 
-### Software
-- Java
-- MySQL
-- JDBC
-- RXTX Library (`gnu.io.*`)
+Hardware Components:
+- Arduino Uno (ATmega328P Microcontroller)
+- Water Flow Sensors (Hall Effect-based)
+- Solenoid Valves
+
+Software Components:
+- Java-based Web Application
+- MySQL Database
+- JDBC Connectivity
+- RXTX Library for Arduino Serial Communication
 
 ## System Workflow
 
@@ -41,17 +43,17 @@ Traditional canal water distribution systems rely on manual operations, which ca
 2. Flow sensors monitor water flow.
 3. Arduino processes sensor data.
 4. Solenoid valves automatically regulate water distribution.
-5. The required quantity of water is delivered.
+5. The system controls valve operation based on required water quantity and monitored flow rate.
 6. Water usage is monitored and recorded.
 
-## Repository Contents
+## Project Documentation
 
-- Source Code
-- Project Documentation
-- IEEE Research Paper
+The repository contains:
 - Project Presentation (PPT)
+- IEEE Research Paper
 - Project Images
 - Demonstration Video
+- Project Certificates
 
 ## Applications
 
