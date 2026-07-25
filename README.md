@@ -69,9 +69,9 @@ Traditional canal water distribution systems rely on manual operations, which ca
 
 ## Project Information
 
-**Project Type:** Academic Team Project
+Project Type: Academic Team Project
 
-This repository is maintained to showcase the project implementation, documentation, and technical contribution.
+This repository showcases the project implementation, documentation, and my technical contribution to the project.
 
 ## Conclusion
 
