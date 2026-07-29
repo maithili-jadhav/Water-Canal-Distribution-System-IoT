@@ -71,9 +71,11 @@ The repository contains:
 
 ## Project Information
 
-Project Type: Academic Team Project
+Academic Team Project
 
-This repository showcases the project implementation, documentation, and my technical contribution to the project.
+Major contributions by: Maithili Jadhav
+
+Developed as part of diploma coursework at K. K. Wagh Polytechnic.
 
 ## Conclusion
 
