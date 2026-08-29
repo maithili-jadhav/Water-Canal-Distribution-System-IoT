@@ -6,7 +6,7 @@ IoT-based water canal distribution and monitoring system for efficient water man
 
 The Water Canal Distribution System using IoT is an automated irrigation water management solution designed to improve transparency, efficiency, and fairness in canal water distribution.
 
-The system automates water allocation using Arduino Uno, flow sensors, and solenoid valves, reducing manual intervention and ensuring that farmers receive the required amount of water accurately.
+The system automates water allocation using Arduino Uno, flow sensors, and solenoid valves, reducing manual intervention and helping ensure that farmers receive the required amount of water accurately.
 
 ## Problem Statement
 
@@ -24,14 +24,13 @@ Traditional canal water distribution systems rely on manual operations, which ca
 
 ## Technologies Used
 
-## System Components
-
-Hardware Components:
+### Hardware
 - Arduino Uno (ATmega328P Microcontroller)
 - Water Flow Sensors (Hall Effect-based)
 - Solenoid Valves
 
-Software Components:
+### Software
+- Java
 - Java-based Web Application
 - MySQL Database
 - JDBC Connectivity
@@ -43,17 +42,18 @@ Software Components:
 2. Flow sensors monitor water flow.
 3. Arduino processes sensor data.
 4. Solenoid valves automatically regulate water distribution.
-5. The system controls valve operation based on required water quantity and monitored flow rate.
+5. The system controls valve operation based on the required water quantity and monitored flow rate.
 6. Water usage is monitored and recorded.
 
 ## Project Documentation
 
 The repository contains:
-- Project Presentation (PPT)
-- IEEE Research Paper
-- Project Images
-- Demonstration Video
-- Project Certificates
+
+- 📊 [Project Presentation](Documentation/ppt_cpp.pptx)
+- 📄 [IJSREM Research Paper](Documentation/Water_Canal_Distribution_System_IJSREM_Paper.pdf)
+- 📸 [Project Screenshots](Documentation/Screenshots/)
+- 🎥 Demonstration Video
+  
 
 ## Applications
 
@@ -71,11 +71,17 @@ The repository contains:
 
 ## Project Information
 
-Academic Team Project
+**Academic Team Project**
 
-Major contributions by: Maithili Jadhav
+**Major Contribution:** Maithili Jadhav
 
-Developed as part of diploma coursework at K. K. Wagh Polytechnic.
+Developed as part of diploma coursework at **K. K. Wagh Polytechnic**.
+
+## Research Publication
+
+The project **"Water Canal Distribution System using IoT"** was documented as a research paper and published in the **International Journal of Scientific Research in Engineering and Management (IJSREM)** in March 2025.
+
+📄 [View IJSREM Research Paper](Documentation/Water_Canal_Distribution_System_IJSREM_Paper.pdf)
 
 ## Conclusion
 
